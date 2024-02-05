@@ -1,4 +1,4 @@
-ft_printf#
+ft_printf
 
 The printf() function of the C language recoded with basic conversions (cspdiuxX%).
 
