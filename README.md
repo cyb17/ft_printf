@@ -1,6 +1,6 @@
-#ft_printf
+# ft_printf
 
-##The printf() function of the C language recoded with basic conversions (cspdiuxX%).
+## The printf() function of the C language recoded with basic conversions (cspdiuxX%).
 
 • %c Prints a single character.
 • %s Prints a string (as defined by the common C convention).
